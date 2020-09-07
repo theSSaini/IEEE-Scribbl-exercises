@@ -1,16 +1,15 @@
 # Coding exercises for Scribbl.ieee
 
 ## Overview
-Each assignment is built to take about 2~3 hours.
+These coding assignments are built to teach new members on full-stack technologies such as HTML/CSS/JS, Python, and Git workflow.
 
-Week 1:
-Create a simple personal website to get an 'feel' of HTML/CSS
+Each assignment is designed to take about 2~3 hours.
 
-Week 2:
-Add JavaScript and responsivity to your personal website
+Week 1: Create a simple personal website to get an 'feel' of HTML/CSS
 
-Week 3:
-Complete a mini-python project using the Feature branch workflow
+Week 2: Add JavaScript and responsivity to your personal website
+
+Week 3: Complete a mini-python project using the Feature branch workflow
 
 ## Instructions
 **Week 1:**
