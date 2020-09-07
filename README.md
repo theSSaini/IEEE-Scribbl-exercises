@@ -1,4 +1,4 @@
-# Scribbl.ieee Exercises
+# Coding exercises for Scribbl.ieee
 
 ## Overview
 Each assignment is built to take about 2~3 hours.
