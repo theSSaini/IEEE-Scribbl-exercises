@@ -36,7 +36,7 @@ Week 3:
 3. Use the Feature Branch workflow to divide the work
 4. Merge your commits together! You shouldn't run into conflicts, but if you do please notify me (John) on Slack, and I'll go over the code with you!
 5. Finish before the next weekly meeting, and fill out the front-end/back-end interest form!
-6. Pat your self on the back for finishing the practice exercies and get hyped to actually start building Scribbl.ieee!
+6. You're done with all the practice exercises! Get hyped to actually start building Scribbl.ieee :)
 
 ## Local Testing
 In Visual Studio Code, download the Live Server extension. OR just click on the HTML file and open in your browser (no live edit though).
