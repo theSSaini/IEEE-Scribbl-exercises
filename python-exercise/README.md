@@ -8,6 +8,5 @@ You will make a simple Tic-tac-toe game that interacts with the player!
 Let's imagine a board that looks like the following:
 
 |   |   |   |
-|---|---|---|
 |   |   |   |
 |   |   |   |
