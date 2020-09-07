@@ -13,14 +13,14 @@ Week 3:
 Complete a mini-python project using the Feature branch workflow
 
 ## Instructions
-Week 1:
+**Week 1:**
 
 1. Fork this repository (keep it public!)
 2. Add HTML/CSS to **index.html**, which serves as your 'home' page
 3. Do NOT create extra HTML files for now, that will be a week 2 assignment 
 4. Finish before the next weekly meeting and commit your changes, so that you can get review comments!
 
-Week 2:
+**Week 2:**
 
 1. Create a new page on HTML, name it *filename*.html
 2. Add a navigation bar to your website, and link your new HTML page to the navigation bar
@@ -29,7 +29,7 @@ Week 2:
 5. Create an *assets* folder and store your CSS/JavaScript files there
 6. Finish before the next weekly meeting, so that you can get review comments!
 
-Week 3:
+**Week 3:**
 
 1. Read the project specs outlined in the Readme.md file inside the /python-exercise folder
 2. Brainstorm with your peers on how you will create the simple tic-tac-toe game. What methods will you use? How will you divide up the work?
