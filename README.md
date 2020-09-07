@@ -39,12 +39,12 @@ Complete a mini-python project using the Feature branch workflow
 6. You're done with all the practice exercises! Get hyped to actually start building Scribbl.ieee :)
 
 ## Local Testing
-For HTML/CSS/JS:
+**For HTML/CSS/JS:**
 
-In Visual Studio Code, download the Live Server extension. OR just click on the HTML file and open in your browser (no live edit though).
+In Visual Studio Code, download the Live Server extension. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
-https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+OR just click on the HTML file and open in your browser (no live edit though).
 
-For Python:
+**For Python:**
 
-Well, it depends on how you create your project :D
+Well, it depends on how you create your project 💁
