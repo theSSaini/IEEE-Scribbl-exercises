@@ -32,7 +32,7 @@ Week 3: Complete a mini-python project using the Feature branch workflow
 
 1. Read the project specs outlined in the Readme.md file inside the /python-exercise folder
 2. Brainstorm with your peers on how you will create the simple tic-tac-toe game. What methods will you use? How will you divide up the work?
-3. Use the Feature Branch workflow to divide the work
+3. Use the Feature Branch workflow to divide the work, and upload a visual representation of your workflow
 4. Merge your commits together! You shouldn't run into conflicts, but if you do please notify me (John) on Slack, and I'll go over the code with you!
 5. Finish before the next weekly meeting, and fill out the front-end/back-end interest form!
 6. You're done with all the practice exercises! Get hyped to actually start building Scribbl.ieee :)
