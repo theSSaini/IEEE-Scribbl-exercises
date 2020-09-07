@@ -1,4 +1,4 @@
-# Personal Website Exercises for Scribbl.ieee
+# Scribbl.ieee pre-exercises
 
 ## Overview
 Each assignment is built to take about 2~3 hours.
