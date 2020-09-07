@@ -1,4 +1,4 @@
-# Scribbl.ieee pre-exercises
+# Scribbl.ieee Exercises
 
 ## Overview
 Each assignment is built to take about 2~3 hours.
