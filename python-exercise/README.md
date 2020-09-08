@@ -129,3 +129,24 @@ For example,
 
 5. If all spaces in the board is filled, print the final board and output the following message ```It's a draw!```
  
+For example,
+
+<table>
+  <tr>
+    <td>O</td>
+    <td>X</td>
+    <td>O</td>
+  </tr>
+  <tr>
+    <td>X</td>
+    <td>O</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>O</td>
+    <td>X</td>
+    <td>O</td>
+  </tr>
+</table>
+
+> It's a draw!
