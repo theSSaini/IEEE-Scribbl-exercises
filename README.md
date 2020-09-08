@@ -34,7 +34,7 @@ To submit: index.html and a new .html file
 
 **Week 3:**
 
-1. Read the project specs outlined in the Readme.md file inside the /python-exercise folder
+1. Read the project specs outlined in the Readme.md file inside the /python-exercise folder https://github.com/johnlee-jh/IEEE-project-exercises/blob/master/python-exercise/README.md
 2. Brainstorm with your peers on how you will create the simple tic-tac-toe game. What methods will you use? How will you divide up the work?
 3. Use the Feature Branch workflow to divide the work, and upload a visual representation of your workflow with who worked on each feature.
 4. Merge your commits together! You shouldn't run into conflicts, but if you do please notify me (John) on Slack, and I'll go over the code with you!
