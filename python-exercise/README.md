@@ -7,7 +7,7 @@ Your goal is to make a single-player Tic-tac-toe game by applying the feature br
 
 0. The player will use 'O' and the computer will use 'X'. Ignore the ' . ' symbols inside boards below, they are just there to format the table in Markdown.
 
-1. When the project is run through Terminal, it should first display a 3x3 empty board (shown below) and prompt a message ```Your move``` for the user to input their first move.
+1. When the project is run through Terminal, it should first display a 3x3 empty board (shown below) and prompt a message ```Your move:``` for the user to input their first move.
 
 <table>
   <tr>
@@ -150,3 +150,15 @@ For example,
 </table>
 
 > It's a draw!
+
+## Hints
+
+### Methods
+You will definitely need the following methods:
+
+1. Input Scanner - to scan the user input
+2. Input Parser - to parse the user input and apply it to the game
+3. Random Computer Algorithm - to randomly select a random move
+4. Win/Lose/Draw Detector - to end the game and notify the user
+
+The rest is up to you!
