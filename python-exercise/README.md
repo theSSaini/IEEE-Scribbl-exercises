@@ -44,19 +44,19 @@ For example, if a player inputs (2,2), then the board will look like the followi
 
 <table>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
   </tr>
   <tr>
-    <td></td>
+    <td> </td>
     <td>O</td>
-    <td></td>
-  </tr>
+    <td> </td>
+  </tr> 
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
   </tr>
 </table>
 
