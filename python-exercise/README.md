@@ -31,8 +31,8 @@ Your goal is to make a single-player Tic-tac-toe game by applying the feature br
 
 2. The user will then input the coordinates of their first move, using the coordinate system shown below.
 
-| 3 |   |   |   |
 |---|---|---|---|
+| 3 |   |   |   |
 | 2 |   |   |   |
 | 1 |   |   |   |
 | 0 | 1 | 2 | 3 |
