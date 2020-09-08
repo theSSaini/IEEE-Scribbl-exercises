@@ -1,32 +1,29 @@
 # Python exercise project specs
 
 ## Overview
-You will make a single-player Tic-tac-toe game!
-
-## Hints
-
+Your goal is to make a single-player Tic-tac-toe game by applying the feature branch workflow!
 
 ## Detailed specs
 
-0. The player will use 'O' and the computer will use 'X'
+0. The player will use 'O' and the computer will use 'X'. Ignore the '.' symbols inside the example boards below, they are just there to format the table in Markdown.
 
 1. When the project is run through Terminal, it should first display a 3x3 empty board (shown below) and prompt a message ```Your move``` for the user to input their first move.
 
 <table>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
   </tr>
 </table>
 
