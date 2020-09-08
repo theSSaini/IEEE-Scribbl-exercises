@@ -152,8 +152,6 @@ For example,
 > It's a draw!
 
 ## Hints
-
-### Methods
 You will definitely need the following methods:
 
 1. Input Scanner - to scan the user input
