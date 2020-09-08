@@ -12,7 +12,7 @@ You will make a single-player Tic-tac-toe game!
 
 1. When the project is run through Terminal, it should first display a 3x3 empty board (shown below) and prompt a message ```Your move``` for the user to input their first move.
 
-<table>
+<table style="background-color: red;">
   <tr>
     <td></td>
     <td></td>
