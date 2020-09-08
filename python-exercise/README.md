@@ -12,7 +12,7 @@ You will make a single-player Tic-tac-toe game!
 
 1. When the project is run through Terminal, it should first display a 3x3 empty board (shown below) and prompt a message ```Your move``` for the user to input their first move.
 
-<table style="background-color: red;">
+<table>
   <tr>
     <td></td>
     <td></td>
@@ -42,19 +42,45 @@ You will make a single-player Tic-tac-toe game!
 
 For example, if a player inputs (2,2), then the board will look like the following:
 
-|   |   |   |
-|---|---|---|
-|   | O |   |
-|   |   |   |
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>O</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 3. Your program should then output the current board, select a random spot on the board, and output the new board along with the message ```Your move: ```
 
 For example,
 
-|   |   |   |
-|---|---|---|
-|   | O | X |
-|   |   |   |
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>O</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 > Your move:
 
