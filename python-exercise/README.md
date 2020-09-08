@@ -31,11 +31,32 @@ Your goal is to make a single-player Tic-tac-toe game by applying the feature br
 
 2. The user will then input the coordinates of their first move, using the coordinate system shown below.
 
-|---|---|---|---|
-| 3 |   |   |   |
-| 2 |   |   |   |
-| 1 |   |   |   |
-| 0 | 1 | 2 | 3 |
+<table>
+  <tr>
+    <td>3</td>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+</table>
 
 For example, if a player inputs (2, 2), then the board will look like the following:
 
