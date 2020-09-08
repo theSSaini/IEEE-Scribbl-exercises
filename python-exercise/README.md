@@ -1,4 +1,4 @@
-# Python Collaboration exercise
+# Collaborative Python exercise
 
 ## Overview
 Your goal is to make a single-player Tic-tac-toe game by applying the feature branch workflow!
