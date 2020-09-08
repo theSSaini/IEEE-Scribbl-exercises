@@ -154,9 +154,9 @@ For example,
 ## Hints
 You will definitely need the following methods:
 
-1. Input Scanner - to scan the user input
-2. Input Parser - to parse the user input and apply it to the game
-3. Random Computer Algorithm - to randomly select a random move
+1. 'Main' method - to scan and parse user input and call appropriate methods
+2. Random Computer Algorithm - to randomly select a random move
+3. 'Printer' - to print the board when necessary
 4. Win/Lose/Draw Detector - to end the game and notify the user
 
 The rest is up to you!
