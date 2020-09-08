@@ -102,5 +102,30 @@ For example, the computer selects (3, 2) and outputs
 
 > Your move:
 
-4. Repeat the 
+4. Continue to take user input and generate computer output until there is a winner (three symbols connected together horizontally, vertically, or diagonally). When there is a winner, print the statement ```You Win!``` if the user wins, or ```You Lose``` if the computer wins.
+
+For example,
+
+<table>
+  <tr>
+    <td>O</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>O</td>
+    <td>O</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>.</td>
+    <td>.</td>
+    <td>O</td>
+  </tr>
+</table>
+
+> You Win!
+
+
+5. If all spaces in the board is filled, print the final board and output the following message ```It's a draw!```
  
