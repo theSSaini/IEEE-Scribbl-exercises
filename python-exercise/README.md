@@ -152,6 +152,9 @@ For example,
 > It's a draw!
 
 ## Hints
+
+**MAKE A DESIGN DOCUMENT BEFORE YOU START!** This will simplify your life a lot
+
 You will definitely need the following methods:
 
 1. 'Main' method - to scan and parse user input and call appropriate methods
