@@ -35,13 +35,13 @@ To submit: index.html and a new .html file
 **Week 3:**
 
 1. Read the project specs outlined in the Readme.md file inside the /python-exercise folder https://github.com/johnlee-jh/IEEE-project-exercises/blob/master/python-exercise/README.md
-2. Brainstorm with your peers on how you will create the simple tic-tac-toe game. What methods will you use? How will you divide up the work?
+2. Brainstorm with your peers on how you will create the simple tic-tac-toe game. What methods will you use? How will you divide up the work? Create a design document before proceeding to divide the work and coding the actual project.
 3. Use the Feature Branch workflow to divide the work, and upload a visual representation of your workflow with who worked on each feature. Example at https://github.com/johnlee-jh/IEEE-project-exercises/blob/master/python-exercise/workflow-example.png
 4. Merge your commits together! You shouldn't run into conflicts, but if you do please notify me (John) on Slack, and I'll go over the code with you!
 5. Finish before the next weekly meeting, and fill out the front-end/back-end interest form at https://forms.gle/jVyqz2dAFaC4Rern8 !
 6. You're done with all the practice exercises! Get hyped to actually start building Scribbl.ieee :)
 
-To submit: Visual representation of your team's Git workflow, entire python game inside the /python-exercise folder
+To submit: Design document, Visual representation of your team's Git workflow, Python game code inside the /python-exercise folder
 
 ## Local Testing
 **For HTML/CSS/JS:**
