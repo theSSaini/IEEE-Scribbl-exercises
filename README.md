@@ -1,4 +1,4 @@
-# Coding exercises for Scribbl.ieee
+# Learning Module for Scribbl.ieee
 
 ## Overview
 These coding assignments are built to teach new members on full-stack technologies such as HTML/CSS/JS, Python, and Git workflow.
