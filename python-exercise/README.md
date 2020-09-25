@@ -3,6 +3,10 @@
 ## Overview
 Your goal is to make a single-player Tic-tac-toe game by applying the feature branch workflow!
 
+Fork the repo in your assigned teams and create branches to simulataneously work on the game.py given in this folder.
+
+Make sure to complete the design document (designdoc.md) before you start, so that you won't have conflicting code!
+
 ## Detailed specs
 
 0. The player will use 'O' and the computer will use 'X'. Ignore the ' . ' symbols inside boards below, they are just there to format the table in Markdown.
