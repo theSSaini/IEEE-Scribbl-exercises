@@ -1,22 +1,24 @@
 # Tic tac toe python game  practice
 
+# Feel free to delete anything below, it's just a template.
+
 # @authors: Name1, Name2, ...
 
 if __name__ = "__main__":
-    tictactoe();
+    main();
 
 board = {'13': ' ', '23': ' ', '33': ' ',
         '12': ' ', '22': ' ', '32': ' ',
         '11': ' ', '21': ' ', '31': ' ' }
 
-def main:
-    
+def main():
+    ## Fill in
             
 def printer(board):
     ## Fill in
 
-def chooseRandomMove:
+def chooseRandomMove():
     ## Fill in
 
-def gameoverDetector:
+def gameoverDetector():
     ## Fill in
