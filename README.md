@@ -15,11 +15,11 @@ Week 3: Complete a mini-python project using the Feature branch workflow
 **Week 1:**
 
 1. Fork this repository (keep it public!)
-2. Add HTML/CSS to **index.html**, which serves as your 'home' page
-3. Do NOT create extra HTML files for now, that will be a week 2 assignment 
+2. Add HTML/CSS to **index.html**, which serves as your 'home' page. (Do NOT create extra HTML files for now, that will be a week 2 assignment)
+3. Host it on Github Pages
 4. Finish before the next weekly meeting and commit your changes, so that you can get review comments!
 
-To submit: index.html
+To submit: A link to your Forked Github repo
 
 **Week 2:**
 
@@ -30,7 +30,7 @@ To submit: index.html
 5. Create an *assets* folder and store your CSS/JavaScript files there
 6. Finish before the next weekly meeting, so that you can get review comments!
 
-To submit: index.html and a new .html file
+To submit: A link to your Forked Github repo
 
 **Week 3:**
 
