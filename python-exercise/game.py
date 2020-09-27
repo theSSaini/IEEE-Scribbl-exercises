@@ -18,7 +18,7 @@ board = {'13': ' ', '23': ' ', '33': ' ',
         '11': ' ', '21': ' ', '31': ' ' }
 
 def main():
-    ## Fill in
+    num = input ("Enter number :")
             
 def printer(board):
     ## Fill in
