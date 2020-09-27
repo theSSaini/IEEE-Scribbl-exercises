@@ -9,16 +9,17 @@
 #   Name2 did ___ method
 #   ...
 
-#
-if __name__ = "__main__":
-    main();
+# Find a way to call main on launch
+def call_main_on_launch:
+    # Fill in
 
 board = {'13': ' ', '23': ' ', '33': ' ',
         '12': ' ', '22': ' ', '32': ' ',
         '11': ' ', '21': ' ', '31': ' ' }
 
 def main():
-    num = input ("Enter number :")
+    printer(board)
+    playermove = input("Your move:")
             
 def printer(board):
     ## Fill in
@@ -29,6 +30,4 @@ def chooseRandomMove():
 def gameoverDetector():
     ## Fill in
     
-   
-
 # Add other methods as necessary
