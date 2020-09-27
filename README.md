@@ -3,7 +3,7 @@
 ## Overview
 These coding assignments are built to teach new members on full-stack technologies such as HTML/CSS/JS, Python, and Git workflow.
 
-Each assignment is designed to take about 2~3 hours.
+Each assignment is designed to take about 1~2 hours.
 
 Week 1: Create a simple personal website to get an 'feel' of HTML/CSS
 
