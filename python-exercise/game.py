@@ -4,6 +4,12 @@
 
 # @authors: Name1, Name2, ...
 
+# @Roles:
+#   Name1 did ___ method
+#   Name2 did ___ method
+#   ...
+
+#
 if __name__ = "__main__":
     main();
 
@@ -22,3 +28,7 @@ def chooseRandomMove():
 
 def gameoverDetector():
     ## Fill in
+    
+   
+
+# Add other methods as necessary
