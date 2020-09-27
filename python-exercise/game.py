@@ -13,9 +13,7 @@
 def call_main_on_launch:
     # Fill in
 
-board = {'13': ' ', '23': ' ', '33': ' ',
-        '12': ' ', '22': ' ', '32': ' ',
-        '11': ' ', '21': ' ', '31': ' ' }
+board = [][]
 
 def main():
     printer(board)
@@ -23,6 +21,8 @@ def main():
     ## Fill in
             
 def printer(board):
+    print(board[0][0] + "|" + board[0][1] + "|" + board[0][2])
+    print("-----"
     ## Fill in
 
 def chooseRandomMove():
