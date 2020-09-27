@@ -16,14 +16,21 @@ def call_main_on_launch:
 board = [][]
 
 def main():
+    for r in range (0,2):
+        for c in range (0,2):
+            board[r][c] = " "
     printer(board)
     playermove = input("Your move:")
+    updateBoard(playermove[0], playermove[1], "O")
     ## Fill in
             
 def printer(board):
     print(board[0][0] + "|" + board[0][1] + "|" + board[0][2])
-    print("-----"
+    print("-----")
     ## Fill in
+          
+def updateBoard(X, Y, sign):
+    board[X][Y] = sign;
 
 def chooseRandomMove():
     ## Fill in
